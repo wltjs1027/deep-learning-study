@@ -1,6 +1,6 @@
 # 딥러닝 공부
 
-이 study는 [YouTube 영상 시리즈](https://www.youtube.com/playlist?list=PL7ZVZgsnLwEHTS9YdnJw3fYWRqy46cOVB)를 보고 작성합니다.
+이 study는 [딥러닝 Deep Learning 이수안컴퓨터연구소](https://www.youtube.com/playlist?list=PL7ZVZgsnLwEHTS9YdnJw3fYWRqy46cOVB)를 보고 작성합니다.
 
 ## 설명
 
